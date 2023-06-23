@@ -1,4 +1,6 @@
-﻿.mud-input {
+﻿@import "../abstracts/mixins";
+
+.mud-input {
     position: relative;
     color: var(--mud-palette-text-primary);
     cursor: text;
